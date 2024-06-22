@@ -23,7 +23,7 @@ var footerHTML = `
                         <h3>Newsletter</h3>
 
                         <p>
-                            Iscriviti alla nostra newsletter per rimanere aggiornato sulle ultime novità, articoli e offerte speciali.
+                            Iscriviti alla newsletter per rimanere aggiornato sulle ultime novità, articoli e offerte speciali.
                         </p>
 
                         <div class="subscribe-form">
