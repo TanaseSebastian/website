@@ -120,7 +120,7 @@
 	   --color-2-lightest             : hsla(0, 0%, 74%, 1);
 	   --color-2-lighter              : hsla(0, 0%, 54%, 1);
 	   --color-2-light                : hsla(0, 0%, 44%, 1);
-	   --color-2-dark                 : hsla(0, 0%, 14%, 1);
+	   --color-2-dark                 : #05142b;
 	   --color-2-darker               : hsla(0, 0%, 10%, 1);
 
 	   --color-3-light                : hsla(210, 36%, 100%, 1);
@@ -3579,7 +3579,7 @@ td:last-child {
 	--content-min-height    : calc(var(--vspace-1) * 27);
 	z-index                 : 2;
 	background-color        : var(--color-2-dark);
-	background              : linear-gradient(20deg, hsl(130deg, 8%, 14%) 40%, hsl(0deg, 0%, 13%) 100%);
+	background              : linear-gradient(20deg, hsl(216, 79%, 9%) 40%, hsl(0deg, 0%, 13%) 100%);
 	width                   : 100%;
 	height                  : max(var(--content-min-height), 100vh);
 	overflow                : hidden;
@@ -4191,7 +4191,7 @@ td:last-child {
 .s-journal {
 	padding-top     : var(--vspace-6);
 	padding-bottom  : var(--vspace-3);
-	background-color: #181818;
+	background-color: #05142b;
 	color           : rgba(255, 255, 255, 0.6);
 	border-bottom   : 1px solid rgba(255, 255, 255, 0.05);
 }
@@ -4248,7 +4248,7 @@ td:last-child {
 	font-size       : calc(var(--text-size) * 0.95);
 	font-weight     : 300;
 	color           : rgba(255, 255, 255, 0.6);
-	background-color: #181818;
+	background-color: #05142b;
 	padding-top     : var(--vspace-3);
 	padding-bottom  : var(--vspace-3);
 }
